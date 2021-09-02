@@ -29,3 +29,15 @@ Reason: Finland is a Northern European nation bordering Sweden, Norway and Russi
 9. I hope this information will be healpful. To get the more information i request you to take help 
 from the internet.
 
+## Suggested Items for Travel
+
+* Multicurrency Travel Card.
+* Enough cloths for the tour.
+    * Cargo shots
+    * T-shirts..etc
+* GoPro Camera 
+    * Drone (if there are no restrictions).
+    * DSLR Camera (For caputuring moments).
+* Valid mobile recharge plan to avoid interuptions.
+
+**Please do refer travel diaries for better requirement**
