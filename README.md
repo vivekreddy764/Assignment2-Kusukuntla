@@ -8,7 +8,9 @@ Reason: Finland is a Northern European nation bordering Sweden, Norway and Russi
 
 1. Very first and most thing to have is a **Valid Passport**.
 ---
-2. We have both ways to start the process either by yourself or by contacting a travel agent.
+2. We have both ways to start the process.
+    1. By yourself
+    2. By Travel Agent
 ---
 3. To avoide problems i suggest to gor for travel agents. Usually travel agents make the process haselfree. 
 ---
@@ -17,6 +19,8 @@ Reason: Finland is a Northern European nation bordering Sweden, Norway and Russi
 5. After making the payment he will start the procedure for **VISA**.
 ---
 6. To make a visit to finland we need a **pre-approved** **VISA** by the grovernmnet of Finland.
+    1. VISA may approve.
+    2. VISA may Reject, It totally depends on your performance.
 ---
 7. Travel agent will schedule a visa interview with the finland embassy for tourist VISA.
 ---
