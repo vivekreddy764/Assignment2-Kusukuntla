@@ -6,4 +6,4 @@ Discription: An enthusiast, competent, and diligent individual seeking an opport
 
 ## Sweet One
 
-![My Image](C:\Users\s544900\Pictures\Saved Pictures/image.jpeg)
+![My Image](C:\Users\s544900\Pictures\Saved Pictures\image.jpeg)
