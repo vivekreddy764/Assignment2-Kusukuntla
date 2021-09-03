@@ -45,3 +45,21 @@ from the internet.
 ## Link to my Bio
 
 [MyGithub](https://github.com/vivekreddy764/Assignment2-Kusukuntla/blob/main/AboutMe.md)
+
+---
+
+# Foodie Things
+
+Some recipies are ment to be cooked like.<br> Here’s an example:
+Slow-cooked for eight hours, this intensely flavored and juicy lamb shank, infused with fresh rosemary and sage, is a house specialty. Served with smooth mashed potatoes and char-grilled, crispy asparagus, topped with a tangy golden-brown glaze for a meal hard to forget.
+
+Now in this table i will suggest you with some of my favourite food
+
+**Note**: Below prices are in Indian Rupees
+
+| Recipe Name | Location | Expected Price |
+| ---| ---| ---: |
+| Vadapav | Mumbai | 10rs |
+| Sambar Idly | Chennai | 100rs |
+| Biryani's | Hyderabad | 350rs |
+| Parantha | Punjab | 25rs |
