@@ -29,10 +29,10 @@ from the internet.
 * Multicurrency Travel Card.
 * Enough cloths for the tour.
     * Cargo shots
-    * T-shirts..etc
+        * T-shirts..etc
 * GoPro Camera 
     * Drone (if there are no restrictions).
-    * DSLR Camera (For caputuring moments).
+        * DSLR Camera (For caputuring moments).
 * Valid mobile recharge plan to avoid interuptions.
 
 **Please do refer travel diaries for better requirement**
