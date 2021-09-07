@@ -69,4 +69,4 @@ Now in this table i will suggest you with some of my favourite food
 # Pithy Quotes
 
 > Don't judge a book by its cover 'til you've read the book. <br>
-                                   \n - *Jamie Lee Curtis*
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   - *Jamie Lee Curtis*
