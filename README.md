@@ -9,8 +9,8 @@ Reason: Finland is a Northern European nation bordering Sweden, Norway and Russi
 
 1. Very first and most thing to have is a **Valid Passport**.
 2. We have both ways to start the process.
-    - By yourself
-        - By Travel Agent
+    >> 1. By yourself
+        >> 2. By Travel Agent
 3. To avoide problems i suggest to gor for travel agents. Usually travel agents make the process haselfree. 
 4. You will have to pay a consultation fee for further process with the travel agent.
 5. After making the payment he will start the procedure for **VISA**.
