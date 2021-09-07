@@ -48,9 +48,9 @@ from the internet.
 
 ---
 
-# Foodie Things
+# Table for Foodie Things
 
-Some recipies are ment to be cooked like.<br> Here’s an example:
+Some recipies are ment to be cooked.<br> Here’s an example:
 Slow-cooked for eight hours, this intensely flavored and juicy lamb shank, infused with fresh rosemary and sage, is a house specialty. Served with smooth mashed potatoes and char-grilled, crispy asparagus, topped with a tangy golden-brown glaze for a meal hard to forget.
 
 Now in this table i will suggest you with some of my favourite food
@@ -63,3 +63,10 @@ Now in this table i will suggest you with some of my favourite food
 | Sambar Idly | Chennai | 100rs |
 | Biryani's | Hyderabad | 350rs |
 | Parantha | Punjab | 25rs |
+
+---
+
+# Pithy Quotes
+
+> Don't judge a book by its cover 'til you've read the book.
+                                   - *Jamie Lee Curtis*
