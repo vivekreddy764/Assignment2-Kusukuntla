@@ -73,3 +73,43 @@ Now in this table i will suggest you with some of my favourite food
 
 > “If you think that the internet has changed your life, think again. The Internet of Things is about to change it all over again!”<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    — *Brendan O’Brien*
+
+---
+
+#  Code Fencing
+
+#### Python Program for Fibonacci numbers
+
+> The Fibonacci numbers are the numbers in the following integer sequence.
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ……..<br>
+In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation.
+ Link for discription <https://www.geeksforgeeks.org/python-program-for-program-for-fibonacci-numbers-2/>
+
+ Here is the code for Fibonacci numbers
+
+ ```
+ # Function for nth Fibonacci number
+def Fibonacci(n):
+   
+    # Check if input is 0 then it will
+    # print incorrect input
+    if n < 0:
+        print("Incorrect input")
+ 
+    # Check if n is 0
+    # then it will return 0
+    elif n == 0:
+        return 0
+ 
+    # Check if n is 1,2
+    # it will return 1
+    elif n == 1 or n == 2:
+        return 1
+
+    else:
+        return Fibonacci(n-1) + Fibonacci(n-2)
+ 
+# Driver Program
+print(Fibonacci(9))
+```
+Here is the link for code <br> <https://www.geeksforgeeks.org/python-program-for-program-for-fibonacci-numbers-2/>
