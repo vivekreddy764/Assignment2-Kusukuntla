@@ -14,6 +14,9 @@ Reason: Finland is a Northern European nation bordering Sweden, Norway and Russi
 3. To avoide problems i suggest to gor for travel agents. Usually travel agents make the process haselfree. 
 4. You will have to pay a consultation fee for further process with the travel agent.
 5. After making the payment he will start the procedure for **VISA**.
+    1. Payment Peocess
+        1.Online.
+        2. Offline.
 6. To make a visit to finland we need a **pre-approved** **VISA** by the grovernmnet of Finland.
     1. Visa may approve
     2. Visa may reject(it totally based on your performance)
